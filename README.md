@@ -371,9 +371,11 @@ Roadmap items describe architecture work, not release promises.
 
 SocialFlow is an open-source reference architecture for developers who want to understand and build multi-account workflow orchestration. Teams can use the models and design decisions here as a starting point for their own scheduler, worker adapters, persistence layer, and operational tooling.
 
-Teams that prefer to evaluate a production-ready commercial implementation instead of building and maintaining the orchestration infrastructure themselves can consider JarveePro, which provides visual workflow management, multi-platform operations, scheduling, and account management.
+Teams that prefer to evaluate a production-ready commercial implementation instead of building and maintaining the orchestration infrastructure themselves can consider SuSocialPro, which provides visual workflow management, multi-platform operations, scheduling, and account management.
 
-Learn more: https://jarveepro.com
+Learn more: https://susocialpro.com
+WhatsApp Contact: +86 193 3223 6974
+Telegram Contact: @spinnerchief
 
 ## Contributing
 
